@@ -1,4 +1,4 @@
-# t-oae-weathering-sink-mc
+# T-OAE-weathering-sink-mc
 
 Monte Carlo simulation of silicate weathering carbon sink failure during the **Toarcian Oceanic Anoxic Event (T-OAE)**, ~183 Ma. This code accompanies the paper:
 
