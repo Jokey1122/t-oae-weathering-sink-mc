@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.claude/
+.vscode/
+
+# Data files (large CSVs etc.)
+*.csv
+*.xlsx
+*.sql
+
+# Output
+out_pic.png
+
+# macOS
+.DS_Store
